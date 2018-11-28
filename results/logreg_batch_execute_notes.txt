@@ -1,0 +1,1 @@
+accuracy with 10 batches on test set is 92.47999999999999 percent

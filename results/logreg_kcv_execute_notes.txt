@@ -1,0 +1,1 @@
+accuracy with 7 cross validation sets on test set is 81.45166587213305 percent
